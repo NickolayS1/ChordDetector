@@ -2,7 +2,7 @@ import sounddevice as sd
 import queue
 import numpy as np
 from typing import Optional, Any
-from src.logger_config import *
+from logger_config import *
 
 
 class RealtimeAudioHandler:

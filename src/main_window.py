@@ -17,8 +17,8 @@ from processing_handler import ProcessingHandler
 from realtime_audio_handler import RealtimeAudioHandler
 from realtime_processing_handler import RealtimeProcessingHandler
 import icons.rc_icons
-from src.logger_config import *
-from src.window_ui import Ui_MainWindow
+from logger_config import *
+from window_ui import Ui_MainWindow
 
 # Constants
 DEFAULT_CHORD_ICON_PATH = Path("chord_positions/Blank-0.svg")

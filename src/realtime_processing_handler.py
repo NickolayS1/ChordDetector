@@ -3,12 +3,12 @@ import numpy as np
 from typing import List, Optional, Tuple, Type
 from PySide6.QtCore import QObject, Signal
 
-from src.chord_templates import chromatic_vectors
-from src.chord_recognizer import ChordRecognizer
-from src.onset_detector import OnsetDetector
-from src.processing_handler import ProcessingHandler
-from src.logger_config import *
-from src.realtime_audio_handler import RealtimeAudioHandler
+from chord_templates import chromatic_vectors
+from chord_recognizer import ChordRecognizer
+from onset_detector import OnsetDetector
+from processing_handler import ProcessingHandler
+from logger_config import *
+from realtime_audio_handler import RealtimeAudioHandler
 
 
 class AudioSignals(QObject):

@@ -1,6 +1,6 @@
 from typing import Dict, Tuple
 import numpy as np
-from src.chord_templates import chromatic_vectors
+from chord_templates import chromatic_vectors
 
 
 class ChordRecognizer:

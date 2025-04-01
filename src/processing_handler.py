@@ -1,6 +1,6 @@
 from typing import Dict, List, Tuple
 import numpy as np
-from src.chord_recognizer import ChordRecognizer
+from chord_recognizer import ChordRecognizer
 
 
 class ProcessingHandler:

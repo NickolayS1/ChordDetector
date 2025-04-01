@@ -3,7 +3,7 @@ import numpy as np
 import soundfile as sf
 from scipy.signal import resample
 from typing import Union
-from src.logger_config import *
+from logger_config import *
 
 
 class AudioHandler:
