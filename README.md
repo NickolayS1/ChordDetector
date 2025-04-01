@@ -16,8 +16,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-репозиторий/chord-detector.git
-cd chord-detector
+git clone https://github.com/NickolayS1/ChordDetector
+cd ChordDetector
 ```
 
 2. Установите зависимости:
@@ -25,16 +25,18 @@ cd chord-detector
 pip install -r requirements.txt
 ```
 
-## 🚀 Запуск (для разных систем)
+## 🚀 Запуск
 
+Приложение мжет некорректно запускаться на Linux, из-за зависимостей библиотеки sounddevice. 
+Поэтому рекомендуется использовать Windows
 ### Windows:
 ```bash
-python main_window.py
+python src/main_window.py
 ```
 
 ### Linux/macOS:
 ```bash
-python3 main_window.py
+python3 src/main_window.py
 ```
 
 ## 💡 Рекомендация:
