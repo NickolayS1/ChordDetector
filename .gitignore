@@ -1,0 +1,11 @@
+/tests/integration/logs/
+/tests/testing realtime onset detection/
+/tests/reeal_time recorder test/
+/tests/real_time_detect_test/
+/logs/
+/logs/
+/tests/fragment FFT test/
+/tests/fragment chord detect test/
+/tests/CQT test/
+/tests/integration/.pytest_cache/
+/venv/

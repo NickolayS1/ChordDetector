@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>file_export.svg</file>
+    <file>arrow_left.svg</file>
+    <file>arrow_right.svg</file>
+    <file>file_open.svg</file>
+    <file>graphic_eq.svg</file>
+    <file>play_circle.svg</file>
+    <file>radio_button_unchecked.svg</file>
+  </qresource>
+</RCC>
